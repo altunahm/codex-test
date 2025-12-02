@@ -1,0 +1,71 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1300' height='720' viewBox='0 0 1300 720'>
+  <style>    .title { font: bold 20px sans-serif; fill: #111; }    .label { font: 13px sans-serif; fill: #333; }    .task { rx: 6; ry: 6; stroke: #fff; stroke-width: 1.5; }    .duration { font: bold 11px sans-serif; fill: #fff; }  </style>
+  <text x='200' y='50' class='title'>DENIM PRODUCTION CRITICAL PATH (12 WEEKS CYCLE)</text>
+  <line x1='200.00' y1='80' x2='200.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='200.00' y='680.00' class='label' text-anchor='middle'>Week 0</text>
+  <line x1='280.00' y1='80' x2='280.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='280.00' y='680.00' class='label' text-anchor='middle'>Week 1</text>
+  <line x1='360.00' y1='80' x2='360.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='360.00' y='680.00' class='label' text-anchor='middle'>Week 2</text>
+  <line x1='440.00' y1='80' x2='440.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='440.00' y='680.00' class='label' text-anchor='middle'>Week 3</text>
+  <line x1='520.00' y1='80' x2='520.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='520.00' y='680.00' class='label' text-anchor='middle'>Week 4</text>
+  <line x1='600.00' y1='80' x2='600.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='600.00' y='680.00' class='label' text-anchor='middle'>Week 5</text>
+  <line x1='680.00' y1='80' x2='680.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='680.00' y='680.00' class='label' text-anchor='middle'>Week 6</text>
+  <line x1='760.00' y1='80' x2='760.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='760.00' y='680.00' class='label' text-anchor='middle'>Week 7</text>
+  <line x1='840.00' y1='80' x2='840.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='840.00' y='680.00' class='label' text-anchor='middle'>Week 8</text>
+  <line x1='920.00' y1='80' x2='920.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='920.00' y='680.00' class='label' text-anchor='middle'>Week 9</text>
+  <line x1='1000.00' y1='80' x2='1000.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='1000.00' y='680.00' class='label' text-anchor='middle'>Week 10</text>
+  <line x1='1080.00' y1='80' x2='1080.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='1080.00' y='680.00' class='label' text-anchor='middle'>Week 11</text>
+  <line x1='1160.00' y1='80' x2='1160.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='1160.00' y='680.00' class='label' text-anchor='middle'>Week 12</text>
+  <line x1='1240.00' y1='80' x2='1240.00' y2='640' stroke='#e0e0e0' stroke-dasharray='4 4' />
+  <text x='1240.00' y='680.00' class='label' text-anchor='middle'>Week 13</text>
+  <rect class='task' x='1120.00' y='80.00' width='40.00' height='42' fill='#e74c3c' opacity='0.9' />
+  <text x='1108.00' y='105.00' class='label' text-anchor='end'>Final Inspection & Ex-Factory</text>
+  <text x='1140.00' y='105.00' class='duration' text-anchor='middle'>0.5w</text>
+  <rect class='task' x='1040.00' y='130.00' width='80.00' height='42' fill='#34495e' opacity='0.9' />
+  <text x='1028.00' y='155.00' class='label' text-anchor='end'>Finishing & Packaging</text>
+  <text x='1080.00' y='155.00' class='duration' text-anchor='middle'>1w</text>
+  <rect class='task' x='1000.00' y='180.00' width='40.00' height='42' fill='#f39c12' opacity='0.9' />
+  <text x='988.00' y='205.00' class='label' text-anchor='end'>Shadeband Approval</text>
+  <text x='1020.00' y='205.00' class='duration' text-anchor='middle'>0.5w</text>
+  <rect class='task' x='880.00' y='230.00' width='160.00' height='42' fill='#3498db' opacity='0.9' />
+  <text x='868.00' y='255.00' class='label' text-anchor='end'>Washing Process</text>
+  <text x='960.00' y='255.00' class='duration' text-anchor='middle'>2w</text>
+  <rect class='task' x='840.00' y='280.00' width='40.00' height='42' fill='#2ecc71' opacity='0.9' />
+  <text x='828.00' y='305.00' class='label' text-anchor='end'>Inline Inspection</text>
+  <text x='860.00' y='305.00' class='duration' text-anchor='middle'>0.5w</text>
+  <rect class='task' x='720.00' y='330.00' width='160.00' height='42' fill='#3498db' opacity='0.9' />
+  <text x='708.00' y='355.00' class='label' text-anchor='end'>Production Start (Sewing)</text>
+  <text x='800.00' y='355.00' class='duration' text-anchor='middle'>2w</text>
+  <rect class='task' x='680.00' y='380.00' width='40.00' height='42' fill='#95a5a6' opacity='0.9' />
+  <text x='668.00' y='405.00' class='label' text-anchor='end'>Cutting & Risk Review</text>
+  <text x='700.00' y='405.00' class='duration' text-anchor='middle'>0.5w</text>
+  <rect class='task' x='520.00' y='430.00' width='80.00' height='42' fill='#8e44ad' opacity='0.9' />
+  <text x='508.00' y='455.00' class='label' text-anchor='end'>Fabric & Trims In-house</text>
+  <text x='560.00' y='455.00' class='duration' text-anchor='middle'>1w</text>
+  <rect class='task' x='600.00' y='480.00' width='80.00' height='42' fill='#e67e22' opacity='0.9' />
+  <text x='588.00' y='505.00' class='label' text-anchor='end'>PP Sample Approval</text>
+  <text x='640.00' y='505.00' class='duration' text-anchor='middle'>1w</text>
+  <rect class='task' x='480.00' y='530.00' width='80.00' height='42' fill='#95a5a6' opacity='0.9' />
+  <text x='468.00' y='555.00' class='label' text-anchor='end'>Size Set Sample</text>
+  <text x='520.00' y='555.00' class='duration' text-anchor='middle'>1w</text>
+  <rect class='task' x='360.00' y='580.00' width='120.00' height='42' fill='#95a5a6' opacity='0.9' />
+  <text x='348.00' y='605.00' class='label' text-anchor='end'>Fit Sample</text>
+  <text x='420.00' y='605.00' class='duration' text-anchor='middle'>1.5w</text>
+  <rect class='task' x='320.00' y='630.00' width='40.00' height='42' fill='#95a5a6' opacity='0.9' />
+  <text x='308.00' y='655.00' class='label' text-anchor='end'>Fabric Booking</text>
+  <text x='340.00' y='655.00' class='duration' text-anchor='middle'>0.5w</text>
+  <rect class='task' x='200.00' y='680.00' width='120.00' height='42' fill='#95a5a6' opacity='0.9' />
+  <text x='188.00' y='705.00' class='label' text-anchor='end'>Development Sample</text>
+  <text x='260.00' y='705.00' class='duration' text-anchor='middle'>1.5w</text>
+</svg>
