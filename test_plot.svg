@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1300' height='720' viewBox='0 0 1300 720'>
+  <style>    .title { font: bold 20px sans-serif; fill: #111; }    .label { font: 13px sans-serif; fill: #333; }    .task { rx: 6; ry: 6; stroke: #fff; stroke-width: 1.5; }    .duration { font: bold 11px sans-serif; fill: #fff; }  </style>
+  <text x='200' y='50' class='title'>Test Plot</text>
+  <polyline fill='none' stroke='#2980b9' stroke-width='3' points='200,280 720.0,124.0 1240,260' />
+  <line x1='200' y1='300' x2='1240' y2='300' stroke='#555' />
+  <line x1='200' y1='80' x2='200' y2='300' stroke='#555' />
+  <text x='720.0' y='330' class='label' text-anchor='middle'>X</text>
+  <text x='180' y='190.0' class='label' text-anchor='end' transform='rotate(-90 180,190.0)'>Y</text>
+</svg>
